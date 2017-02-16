@@ -1,0 +1,10 @@
+body {
+ color: blue;
+ font-family:arial;
+ font-size:10em;
+}
+
+p { 
+ font-family:monospace;
+ background-color:green;
+} 
